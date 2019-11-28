@@ -1,0 +1,3 @@
+cd calculadora
+git bash here
+npm start
